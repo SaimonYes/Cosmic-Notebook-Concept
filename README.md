@@ -11,5 +11,6 @@ Adaptive AI system that:
 ## Key Principles
 1. **Isolation**: AI operates in separate dimension
 2. **Progressive Disclosure**: Knowledge in stages
-3. **Safety First**: No existential risks
+3. **Safety First**: No existential risks  
+
 AI-driven adaptive learning system for safe knowledge transfer
